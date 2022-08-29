@@ -17,4 +17,6 @@ $ pm2 delete app_name
 ```
 
 List the status of all application managed by PM2:
-```$ pm2 [list|ls|status]```
+```
+$ pm2 [list|ls|status]
+```
