@@ -8,6 +8,13 @@ This is the software that handles file management.
 
 ## [PM2 Process Management Quick Start](https://pm2.keymetrics.io/docs/usage/quick-start/)
 
-Some basic 
+Managing application state commands are:
+```
+$ pm2 restart app_name
+$ pm2 reload app_name
+$ pm2 stop app_name
+$ pm2 delete app_name
+```
 
-
+List the status of all application managed by PM2:
+```$ pm2 [list|ls|status]```
