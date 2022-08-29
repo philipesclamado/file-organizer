@@ -1,6 +1,6 @@
 # file-organizer
 
-An automated file manager.
+This is the software that handles file management.
 
 ## Running the app
 
